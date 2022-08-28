@@ -1,0 +1,64 @@
+*{
+    background-color: #22272e;
+    color: #adbac7;
+}
+
+
+h1{
+    font-size: 65px;
+}
+
+h2{
+    font-size: 45px;
+    margin-bottom: 90px;
+  
+}
+
+a{
+    text-decoration: none;
+}
+
+i{
+    color: white;
+}
+
+.card{
+    padding:0px;
+    background-color: #22272e;
+}
+
+#name{
+
+    margin-top: 250px;
+    margin-bottom: 250px;
+}
+
+#about{
+
+    margin-top: 0px;
+    margin-bottom: 200px;
+}
+
+#experiences{
+
+    margin-top: 0px;
+    margin-bottom: 150px;
+}
+
+#skills{
+
+    margin-top: 0px;
+    margin-bottom: 150px;
+}
+
+#works{
+
+    margin-top: 0px;
+    margin-bottom: 150px;
+}
+
+#contact{
+
+    margin-top: 0px;
+    margin-bottom: 90px;
+}
