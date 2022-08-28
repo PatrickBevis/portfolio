@@ -25,6 +25,11 @@ i{
 .card{
     padding:0px;
     background-color: #22272e;
+    
+}
+
+.bg-white{
+    border-radius: 50%;
 }
 
 #name{
